@@ -1,7 +1,6 @@
 # The AutoTrader Pro
 
 ## Overview & Features
-Fueled by our success following the deployment of the AutoTrader, we have enhanced and included additional features to our original product and have  dubbed our new creation: "The AutoTrader Pro". The Pro version is more user friendly has all the necessary tools to help our users achieve their ultimate goal, which is to make money.
 
 This Application features the following upgrades:
 
